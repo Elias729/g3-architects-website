@@ -49,10 +49,13 @@
 
 /* nav item */
 
+.header {
+    padding-top: 50px;
+}
+
 .navbar {
     justify-content: space-between;
     align-items: center;
-    padding-top: 40px;
     flex-wrap: wrap;
 }
 
@@ -105,7 +108,8 @@
     border-radius: 10px;
 }
 
-/* responsive */
+
+/* Responsive Styles */
 
 @media screen and (max-width: 576px) {
 
